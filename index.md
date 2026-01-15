@@ -21,7 +21,7 @@ Mandarin, English
 
 ## EDUCATION
 
-<img src="assets/img/University-of-Washington-Logo.jpg" alt="UW" width="40" align="right"/>
+<img src="assets/img/University-of-Washington-Logo.jpg" alt="UW" width="60" align="right"/>
 
 **University of Washington**, Seattle, WA  
 Master of Science in Applied Chemical Science and Technology  
@@ -30,7 +30,7 @@ GPA: 3.53 / 4.0
 
 <br/>
 
-<img src="assets/img/中山.png" alt="NSYSU" width="40" align="right"/>
+<img src="assets/img/中山.png" alt="NSYSU" width="60" align="right"/>
 
 **National Sun Yat-sen University**, Kaohsiung, Taiwan  
 Bachelor of Science in Chemistry  
