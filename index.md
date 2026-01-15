@@ -1,5 +1,3 @@
-# Tzu-Chun Huang
-
 **Email:** tzuchunapply@gmail.com  
 **Phone:** +886 989 831 733  
  [**LinkedIn**](https://www.linkedin.com/in/tzuchun-huang)
