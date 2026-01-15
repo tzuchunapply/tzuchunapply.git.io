@@ -40,7 +40,7 @@ Bachelor of Science in Chemistry
 
 ## WORK EXPERIENCE
 
-<"assets/img/PA.jpg" alt="UW" width="80" align="right"/>
+<img src="assets/img/PA.jpg" alt="UW" width="80" align="right"/>
 
 ### Precision Analytical — McMinnville, OR  
 **Chemist** | *Nov 2024*
