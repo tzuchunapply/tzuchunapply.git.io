@@ -15,6 +15,17 @@ Problem-Solving, Adaptability, Quick Learning, Cross-functional Collaboration
 **Languages**  
 Mandarin, English 
 
+## SKILLS
+<div style="margin-bottom:12px;"></div>
+
+**Technical Skills**
+
+<span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Analytical Chemistry</span>
+<span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">SPC</span>
+<span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Six Sigma</span>
+<span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Python</span>
+<span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Machine Learning</span>
+
 ---
 
 ## EDUCATION
@@ -38,8 +49,6 @@ Bachelor of Science in Chemistry
 
 ## WORK EXPERIENCE
 
-<div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; margin-bottom:20px;">
-
 <img src="assets/img/PA.jpg" alt="UW" width="80" align="right"/>
 
 ### Precision Analytical — McMinnville, OR  
@@ -49,8 +58,6 @@ Bachelor of Science in Chemistry
 - Applied **Six Sigma** methodology to investigate significant deviation in patient urine creatinine measurements; analyzed potential causes including sample handling, reagent preparation, and laboratory environment, identified elevated temperature as the primary factor affecting reaction kinetics, implemented SOP improvements to standardize temperature equilibration prior to UV-Vis analysis, and restored consistent measurement performance.  
 - Operated the Lynx automated liquid dispensing system and C18 column-based extraction process for high-throughput hormone analysis (androgen, estrogen, progesterone), strictly adhering to **SOPs** to ensure process repeatability and data consistency across urine and saliva samples.  
 - Performed methanol recycling to reduce chemical waste and operational costs.
-
-</div>
 
 ---
 
