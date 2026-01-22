@@ -38,6 +38,8 @@ Bachelor of Science in Chemistry
 
 ## WORK EXPERIENCE
 
+<div style="border:1px solid #e5e7eb; border-radius:12px; padding:16px; margin-bottom:20px;">
+
 <img src="assets/img/PA.jpg" alt="UW" width="80" align="right"/>
 
 ### Precision Analytical — McMinnville, OR  
@@ -73,8 +75,6 @@ Bachelor of Science in Chemistry
 ## Extracurricular Activities
 
 <img src="assets/img/帆船.jpg" alt="WS" width="80" align="right"/>
-
-<div style="border:1px solid #ddd; padding:12px; border-radius:8px;">
 
 ### 2019 International Top University Regatta
 - Participated in the 2019 International Top Universities Regatta (ITUR) held at Qingdao Olympic Sailing Center, competing alongside 12 invited teams from prestigious universities worldwide, including Oxford, Cambridge, UC Berkeley, and Tsinghua University.
