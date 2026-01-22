@@ -52,7 +52,7 @@ Bachelor of Science in Chemistry
 
 ## COURSEWORK PROJECTS
 
-<img src="assets/img/中山.png" alt="NSYSU" width="80" align="right"/>
+<img src="assets/img/Hackathon 示意.jpg" alt="ML" width="80" align="right"/>
 
 ### Defect Identification and Classification Using YOLOv5 and Azure Machine Learning
 - Trained a defect detection and multiclass classification model using MoS₂ images, applying image preprocessing techniques to enhance defect visibility and reduce noise.  
@@ -60,7 +60,7 @@ Bachelor of Science in Chemistry
 - Evaluated model performance using precision and recall metrics to assess detection reliability.  
 - Awarded **1st place** in a hackathon for technical execution.
 
-<img src="assets/img/中山.png" alt="NSYSU" width="80" align="right"/>
+<img src="assets/img/微流控示意圖.jpg" alt="MF" width="80" align="right"/>
 
 ### Design Project: Quorum Sensing Behavior Observation
 - Designed a microfluidic device to test the hypothesis that quorum sensing behavior can be observed in small populations when confined within limited volumes.
@@ -72,7 +72,7 @@ Bachelor of Science in Chemistry
 
 ### Extracurricular Activities
 
-<img src="assets/img/中山.png" alt="NSYSU" width="80" align="right"/>
+<img src="assets/img/帆船.jpg" alt="WS" width="80" align="right"/>
 
 ## 2019 International Top University Regatta
 - Participated in the 2019 International Top Universities Regatta (ITUR) held at Qingdao Olympic Sailing Center, competing alongside 12 invited teams from prestigious universities worldwide, including Oxford, Cambridge, UC Berkeley, and Tsinghua University.
