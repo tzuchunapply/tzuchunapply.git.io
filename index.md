@@ -70,11 +70,11 @@ Bachelor of Science in Chemistry
 
 ---
 
-### Extracurricular Activities
+## Extracurricular Activities
 
 <img src="assets/img/帆船.jpg" alt="WS" width="80" align="right"/>
 
-## 2019 International Top University Regatta
+### 2019 International Top University Regatta
 - Participated in the 2019 International Top Universities Regatta (ITUR) held at Qingdao Olympic Sailing Center, competing alongside 12 invited teams from prestigious universities worldwide, including Oxford, Cambridge, UC Berkeley, and Tsinghua University.
 - The event provided a high-level international exchange platform, combining competitive sailing with cross-cultural collaboration. Through teamwork and strategic sailing, I enhanced my communication, and cross-cultural collaboration skills while engaging with peers from top global universities.
 
