@@ -5,28 +5,36 @@
 ---
 
 ## SKILLS
-<div style="margin-bottom:12px;"></div>
 
 **Technical Skills**
-<span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Analytical Chemistry</span>
-<span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Quality Control(SPC)</span>
-<span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Six Sigma</span>
-<span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">UV-Vis Spectroscopy</span>
-<span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Chromatography</span>
-<span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Machine Learning</span>
-<span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Python</span>
-<span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Lynx Automated Liquid Dispensing System</span>
-<span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Microsoft Office</span>
 
-**Soft Skills**  
-<span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Problem-Solving</span>
-<span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Adaptability</span>
-<span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Quick Learning</span>
-<span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Cross-functional Collaboration</span>
+<div style="margin-top:6px; margin-bottom:16px;">
+  <span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Analytical Chemistry</span>
+  <span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Quality Control (SPC)</span>
+  <span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Six Sigma</span>
+  <span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">UV-Vis Spectroscopy</span>
+  <span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Chromatography</span>
+  <span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Machine Learning</span>
+  <span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Python</span>
+  <span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Lynx Automated Liquid Dispensing System</span>
+  <span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Microsoft Office</span>
+</div>
+
+**Soft Skills**
+
+<div style="margin-top:6px; margin-bottom:16px;">
+  <span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Problem-Solving</span>
+  <span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Adaptability</span>
+  <span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Quick Learning</span>
+  <span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Cross-functional Collaboration</span>
+</div>
 
 **Languages**  
-<span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Mandarin</span>
-<span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">English</span>
+
+<div style="margin-top:6px; margin-bottom:16px;">
+  <span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">Mandarin</span>
+  <span style="display:inline-block; border:1px solid #d0d7de; border-radius:999px; padding:4px 10px; margin:4px;">English</span>
+</div>
 
 ---
 
