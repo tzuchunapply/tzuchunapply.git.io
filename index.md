@@ -50,6 +50,8 @@ Bachelor of Science in Chemistry
 - Operated the Lynx automated liquid dispensing system and C18 column-based extraction process for high-throughput hormone analysis (androgen, estrogen, progesterone), strictly adhering to **SOPs** to ensure process repeatability and data consistency across urine and saliva samples.  
 - Performed methanol recycling to reduce chemical waste and operational costs.
 
+</div>
+
 ---
 
 ## COURSEWORK PROJECTS
